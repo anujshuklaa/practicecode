@@ -1,0 +1,26 @@
+.container1{
+    padding: 10px;
+    border: 1px solid black;
+    display: flex;
+    display: grid;
+    text-decoration:none;
+    background-color: rgb(109, 113, 111);
+    
+
+}
+.property1{
+    background-color: rgb(109, 113, 111);
+    padding: 10px;
+    border:1px solid black ;
+
+}
+.view1{
+    background-color: rgb(109, 113, 111);
+    padding:10px;
+    border:1px solid black;
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
